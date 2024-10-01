@@ -1,4 +1,4 @@
-# ymdhms_to_jd.py
+# eci_to_ecef.py
 #
 # Usage: python3 eci_to_ecef.py year month day hour minute second eci_x_km eci_y_km eci_z_km
 #  
